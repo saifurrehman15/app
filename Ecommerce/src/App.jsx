@@ -94,9 +94,7 @@ function App() {
                 </div>
               </div>
             </div>
-          ) : (
-            ""
-          )
+          ) : null
         )}
       </div>
 
@@ -129,9 +127,7 @@ function App() {
                   </div>
                 </div>
               </div>
-            ) : (
-              ""
-            )
+            ) : null
           )}
         </div>
       </div>
